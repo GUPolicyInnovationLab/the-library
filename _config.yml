@@ -5,8 +5,8 @@ markdown: kramdown
 pygments: true
 
 # Title
-name: DOCter
-subtitle: A Jekyll template for project documentation
+name: The McCourt School Policy Innovation Lab
+subtitle: Convening the talents of DC and Georgetown to tackle urgent and emerging issues in the community.
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
@@ -45,4 +45,4 @@ repos:
   url: https://github.com/cfpb/DOCter
 
 # Style Variables
-brand_color: "#2cb34a"
+brand_color: "#011e41"
